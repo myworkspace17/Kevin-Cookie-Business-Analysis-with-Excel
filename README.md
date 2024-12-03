@@ -1,4 +1,4 @@
 # Kevin-Cookie-Business-Analysis-with-ExcelKevin Cookies Company Business Analysis
-👋 Hi, I’m Hari (@myworkspace17)
-Welcome to my GitHub! I'm a Data Enthusiast passionate about uncovering actionable insights from data and creating compelling visualizations that help businesses make informed decisions.
-"Analyzed Kevin Cookies Company’s sales, revenue, and profit data using Excel, providing insights to optimize strategies and performance."
+This project focuses on analyzing key business data to uncover insights into sales performance, product trends, and regional growth. By leveraging Excel for data extraction, transformation, and visualization, I built interactive dashboards to provide actionable insights that can guide business decision-making and drive growth.
+
+
